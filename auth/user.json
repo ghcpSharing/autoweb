@@ -1,0 +1,14 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://dify.xxx.com",
+      "localStorage": [
+        {
+          "name": "console_token",
+          "value": "xxx"
+        }
+      ]
+    }
+  ]
+}

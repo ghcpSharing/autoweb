@@ -1,0 +1,15 @@
+# Sample knowledge file for Output Auto-Generation test
+# 可以模拟为系统在 Workflow 中引用的预期外部文本 / 模板 / 结构字段
+
+INSTRUCTIONS:
+You are given a user question. Use the reference template below to craft a structured answer.
+
+REFERENCE TEMPLATE (YAML):
+summary: <one sentence answer>
+key_points:
+  - <point1>
+  - <point2>
+  - <point3>
+confidence: <0-1 float>
+
+--- END ---
